@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "b22215b332bd1182",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ac8cd6b20129907",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38fc102787382eee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "8447c167b4c31509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-LeetCode/Medium/33. 搜索旋转数组（难度：Medium）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "33. 搜索旋转数组（难度：Medium）"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d500712b2b1093f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "854f30d22b794ee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc21cc6dae680cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "07e68b29bd00009a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "925d93ef4df41b36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "543682023255a9b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d459e1501d7a54d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c66b0f280642222",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "二分查找.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "二分查找 的反向链接列表"
+            }
+          },
+          {
+            "id": "c9e14b329fe06df8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "二分查找.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "二分查找 的出链列表"
+            }
+          },
+          {
+            "id": "f7abdac74ec2cce3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e9e450872b84caff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "二分查找.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "二分查找 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1bc21cc6dae680cf",
+  "lastOpenFiles": [
+    "3-LeetCode/Hard",
+    "3-LeetCode/Medium",
+    "Array.md",
+    "1-Data-Structure/Array",
+    "3-LeetCode/Medium/33. 搜索旋转数组（难度：Medium）.md",
+    "2-Alogorithms/Binary Search.md",
+    "00-Index.md",
+    "3-LeetCode",
+    "2-Alogorithms",
+    "1-Data-Structure",
+    "().md",
+    "欢迎.md"
+  ]
+}
