@@ -11,10 +11,14 @@
             "id": "38fc102787382eee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -23,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-LeetCode/Medium/33. 搜索旋转数组（难度：Medium）.md",
+                "file": "2-Alogorithms/Binary Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "33. 搜索旋转数组（难度：Medium）"
+              "title": "Binary Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "二分查找.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "二分查找 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -166,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,15 +181,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1bc21cc6dae680cf",
+  "active": "38fc102787382eee",
   "lastOpenFiles": [
-    "3-LeetCode/Hard",
-    "3-LeetCode/Medium",
     "Array.md",
-    "1-Data-Structure/Array",
+    "未命名.md",
+    "00-Index.md",
+    "README.md",
+    "README.md",
     "3-LeetCode/Medium/33. 搜索旋转数组（难度：Medium）.md",
     "2-Alogorithms/Binary Search.md",
-    "00-Index.md",
+    "Pasted image 20250603220348.png",
+    "1-Data-Structure/Array.md",
+    "1-Data-Structure/未命名",
+    "1-Data-Structure/index.md",
+    "3-LeetCode/Hard",
+    "3-LeetCode/Medium",
+    "1-Data-Structure/Array",
     "3-LeetCode",
     "2-Alogorithms",
     "1-Data-Structure",
