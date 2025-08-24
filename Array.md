@@ -151,3 +151,27 @@ public:
 ```
 
 ## 3. 二维数组
+
+### 顺/逆时针旋转矩阵
+
+```cpp
+// 原地顺时针旋转矩阵90°
+class MatrixRotation {
+public:
+	void rotate(vector<vector<int>> &matrix) {
+		int n = matrix.size();
+		
+		for (int i = 0; i < n; ++i) {
+			for (int j = i; j < n; ++j) {
+				swap(matrix[i][j], matrix[j][i]);
+			}
+		}
+		
+		for (auto &row : matrix) {
+			reverse(row.begin(), row.end());
+		}
+	}
+};
+```
+
+### 矩阵的螺旋遍历
